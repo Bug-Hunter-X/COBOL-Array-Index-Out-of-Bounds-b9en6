@@ -1,0 +1,1 @@
+This repository contains a COBOL program with an array index out-of-bounds error and its solution. The bug demonstrates a common mistake in COBOL programming where an array subscript attempts to access an element beyond the defined array's boundaries.  The solution showcases how to correctly handle array indices within their valid ranges to prevent runtime errors.
